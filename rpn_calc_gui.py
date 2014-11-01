@@ -27,7 +27,7 @@
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtWebKit import QWebView
 from display_gui import display_start, functions, show_constants, manual, about
-import main, dialog, csv, cmath, config
+import main, csv, cmath, config
 from main import history
 
 global prev_commands, cmd_cnt
